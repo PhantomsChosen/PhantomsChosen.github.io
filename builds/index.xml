@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Builds on Guardian Advisor | Phantoms Chosen</title>
+    <link>https://phantomschosen.github.io/builds/</link>
+    <description>Recent content in Builds on Guardian Advisor | Phantoms Chosen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="https://phantomschosen.github.io/builds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Celestial Nighthawk</title>
+      <link>https://phantomschosen.github.io/builds/hunter/nighthawk/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://phantomschosen.github.io/builds/hunter/nighthawk/</guid>
+      <description>Celestial Nighthawk PvE build with Celestial Nighthawk.
+Light/Dark Subclass Solar - Way of the Sharpshooter (bottom tree)
+Strategy Ideally run with T10 intelligence to take advantage of the exotic perk. High discipline can help create wells to boost int regen speed. Pair with solar weapons to create solar wells.
+Armor Mods Elemental Armaments Explosive Wellmaker Font of Wisdom Well of Ordnance
+D2 Armor Picker Profile Copy the config hash below. Scroll to the bottom of https://d2armorpicker.</description>
+    </item>
+    
+    <item>
+      <title>Revenant Stasis Hunter</title>
+      <link>https://phantomschosen.github.io/builds/hunter/revenant-add-champ-control/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://phantomschosen.github.io/builds/hunter/revenant-add-champ-control/</guid>
+      <description>Revenant Stasis Hunter - Ad Control and Champ Abuser PvE build for endgame content.
+This build uses several season 15 artifact mods. Based on plunderthabooty&amp;rsquo;s video here. Stareater Scales is recommended. Mod distribution is a suggested setup. Some mods could be equipped on different pieces of armor if needed.
+ Abilities: Gambler&amp;rsquo;s Dodge, Duskfield Grenade Aspects: Grim Harvest, Touch of Winter Fragments: Whispers of Rime, Durance, Chains, and Shards  Artifact Mods from Wayfinder&amp;rsquo;s Compass</description>
+    </item>
+    
+    <item>
+      <title>Vault of Glass Weapon</title>
+      <link>https://phantomschosen.github.io/builds/raid/vaultofglass/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://phantomschosen.github.io/builds/raid/vaultofglass/</guid>
+      <description>Vault of Glass Weapons Suggested weapons for VoG encounters
+Description Loadout Suggestions for Vault of Glass - Season 15
+Weapon Overview Favorite Scout Rifle Linear Fusion Rifle (LFR) with Vorpal Null Composure Cartesian Coordinate with Vorpal Rocket Launcher Trinity Ghoul Xenophage
+Encounter 1 - Opening the Vault Stand on the three plates and don&amp;rsquo;t let the minotars touch them. Champions: none Weapons: Any, something with void is helpful
+Encounter 2 - Confluxes Kill the wyverns before they sacrifice.</description>
+    </item>
+    
+  </channel>
+</rss>
