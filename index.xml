@@ -21,6 +21,17 @@ D2 Armor Picker Profile Copy the config hash below. Scroll to the bottom of http
     </item>
     
     <item>
+      <title>Hammer of the Wormgod</title>
+      <link>https://phantomschosen.github.io/builds/titan/pve/hammer_of_the_wormgod/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://phantomschosen.github.io/builds/titan/pve/hammer_of_the_wormgod/</guid>
+      <description>Hammer of the Wormgod Description Deal absurd damage with throwing hammers and make a buttload of orbs for your teammates. Ideal for low-stakes PvE like gambit/strikes. Subclass: Code of the Devastator
+Stat Requirements A good baseline of strength and discipline are nice to kickstart [Roaring Flames] and get your hammer back if you lose it.
+Mobility : -Resilience : -Recovery : 90Discipline : 50+Intellect : -Strength : 50+ A &amp;ldquo;-&amp;rdquo; means the stat isn&amp;rsquo;t a priority for the build.</description>
+    </item>
+    
+    <item>
       <title>Revenant Stasis Hunter</title>
       <link>https://phantomschosen.github.io/builds/hunter/revenant-add-champ-control/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
@@ -29,6 +40,18 @@ D2 Armor Picker Profile Copy the config hash below. Scroll to the bottom of http
       <description>Revenant Stasis Hunter - Ad Control and Champ Abuser PvE build for endgame content.
 This build uses several season 15 artifact mods. Based on plunderthabooty&amp;rsquo;s video here. Stareater Scales is recommended. Mod distribution is a suggested setup. Some mods could be equipped on different pieces of armor if needed.
  Abilities: Gambler&amp;rsquo;s Dodge, Duskfield Grenade Aspects: Grim Harvest, Touch of Winter Fragments: Whispers of Rime, Durance, Chains, and Shards  Artifact Mods from Wayfinder&amp;rsquo;s Compass</description>
+    </item>
+    
+    <item>
+      <title>The Peacekeeper</title>
+      <link>https://phantomschosen.github.io/builds/titan/pvp/the_peacekeeper/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://phantomschosen.github.io/builds/titan/pvp/the_peacekeeper/</guid>
+      <description>The Peacekeeper Description Dual-SMG or SMG/scout.
+Subclass: Class-neutral but pairs best with Juggernaut striker or a subclasses with a healing trait.
+Stat Priority Mobility : AnyResilience : 60Recovery : 90Discipline : anyIntellect : anyStrength : anyArmor Mods    Weapons SMGs with high range and zoom are preferred for effectiveness at further ranges.
+ A well-rolled Multimach CCX with high range is ideal for your kinetic slot.</description>
     </item>
     
     <item>
